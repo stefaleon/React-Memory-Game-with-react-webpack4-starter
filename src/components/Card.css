@@ -1,0 +1,10 @@
+.card {
+  background-color: black;
+  border: 1px solid lightgrey;
+  cursor: pointer;
+  border-radius: 5px;
+  display: inline-block;
+  width: 22.2%;
+  padding-top: 22.2%; /*so that the square has same height as width*/
+  margin: 1%;
+}
